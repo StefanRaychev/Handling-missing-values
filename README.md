@@ -1,5 +1,5 @@
-Methodology for handling missing values
-(on the example of Minimum wages)
+# Methodology for handling missing values
+## (on the example of Minimum wages)
 
 Handling missing data is an important step of any data analysis. In real life, the study of given processes and phenomena inevitably encounters missing data, which should be subject to peprocessing analysis. To reveal the nature of the missing data in general, whether they are completely random, random or non-random. To think about what could be done with them so as not to distort the database drastically, but on the contrary to improve their suitability for objective analysis. This report provides an overview of possible tools for dealing with missing data. The emphasis is not on their research, which as a methodology was done in a previous report, but on working with them. Different methods of visualization, imputation and removal are shown in order to enrich the theory and practice of data refinement as a pre-processing step in the field of economic data and others.
 
